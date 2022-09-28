@@ -21,13 +21,13 @@ vnfd:
     ext-cpd:
     -   id: mgmtnet
         k8s-cluster-net: mgmt
-    id: test1_knf
+    id: test_knf
     k8s-cluster:
         nets:
         -   id: mgmtnet
     kdu:
-    -   helm-chart: chart-packages/chart-test2
-        name: test1
+    -   helm-chart: Helm-Repo/chart-test2
+        name: test
     mgmt-cp: mgmt
-    product-name: test1_knf
+    product-name: test_knf
     version: '1.0'  

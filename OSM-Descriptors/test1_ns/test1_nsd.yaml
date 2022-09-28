@@ -24,13 +24,13 @@ nsd:
                     -   constituent-base-element-id: '1'
                         constituent-cpd-id: mgmtnet
                     virtual-link-profile-id: mgmtnet
-                vnfd-id: test1_knf
-        id: test1_ns
-        name: test1_ns
+                vnfd-id: test_knf
+        id: test_ns
+        name: test_ns
         version: '1.0'
         virtual-link-desc:
         -   id: mgmtnet
             mgmt-network: 'true'
             vim-network-name: mgmt
         vnfd-id:
-        - test1_knf
+        - test_knf

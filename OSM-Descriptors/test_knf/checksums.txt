@@ -1,0 +1,3 @@
+6efe2a15e044675467b103cd10bb77ce	test1_vnf/README.md
+ffd87272043352edbeb19767d48d1cea	test1_vnf/test1_knfd.yaml
+3a4799d01502c86f56b0412dc33cf647	test1_vnf/Scripts/cloud_init/cloud-config.txt

@@ -1,3 +1,3 @@
-# BIND5G-Test
+# Test-repo
 
-This is a test Git repo for the BIND5G project
+This is a test Git repo 
